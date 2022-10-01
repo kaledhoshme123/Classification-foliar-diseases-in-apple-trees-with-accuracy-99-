@@ -1,0 +1,2 @@
+# Classification-foliar-diseases-in-apple-trees-with-accuracy-99-
+Misdiagnosis of many diseases affecting agricultural crops can lead to chemical misuse resulting in the emergence of resistant pathogenic strains, increased input costs, and more outbreaks leading to significant economic losses and environmental impacts. A structure of a convolutional neural network has been proposed that is capable of diagnosing disease in apple plant leaves. The proposed neural network structure was able to reach an accuracy of more than 99 percent.
