@@ -4,7 +4,8 @@ Misdiagnosis of many diseases affecting agricultural crops can lead to chemical 
 ![__results___8_0](https://user-images.githubusercontent.com/108609519/193415636-3c4a14ba-5643-41d9-8338-7994221efb21.png)
 
 The study reviewed several different methodologies through which apple leaf disease can be identified, including ("DenseNet CNN", "CNN + XGBOOST", "CNN + Random Forest", "CNN + SVM").
-
+# Dataset Link:
+https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7
 ## Dataset Images Samples:
 ![__results___11_0](https://user-images.githubusercontent.com/108609519/193414704-533c1ad5-ed91-4d3c-ae67-7243dd42bb98.png)
 # Results:
